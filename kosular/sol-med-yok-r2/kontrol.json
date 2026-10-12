@@ -1,0 +1,125 @@
+{
+  "yazan": "codex",
+  "model": "gpt-6",
+  "dimensions_m": [
+    0.4000000059604645,
+    0.42181718349456787,
+    0.800000011920929
+  ],
+  "parts": [
+    {
+      "part": "01 Carcass - bowed sides and tapered base",
+      "vertices": 13248,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "02 Thick overhanging top - rolled upper edge",
+      "vertices": 1824,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "03 Lower door - curved soft panel",
+      "vertices": 2306,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "04 Upper drawer - curved soft panel",
+      "vertices": 2306,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Door knob - short stem",
+      "vertices": 384,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Door knob - flattened round head",
+      "vertices": 1106,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": []
+    },
+    {
+      "part": "Drawer knob - short stem",
+      "vertices": 384,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Drawer knob - flattened round head",
+      "vertices": 1106,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": []
+    },
+    {
+      "part": "Front left short tapered foot",
+      "vertices": 672,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Rear left short tapered foot",
+      "vertices": 672,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Front right short tapered foot",
+      "vertices": 672,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Rear right short tapered foot",
+      "vertices": 672,
+      "nonmanifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    }
+  ]
+}

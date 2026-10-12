@@ -1,0 +1,5 @@
+Tamamlandı: [sonuc.blend](sonuc.blend) ve [RAPOR.md](RAPOR.md).
+
+**Doğrulanan:** 14 parça `Molly's Nightstand` koleksiyonunda; yükseklik 80 cm, tabla 40 × 40 cm. Malzeme atanmadı. Üç açıdan render kontrolü ve dosyayı yeniden açarak geometri doğrulaması yapıldı.
+
+[Perspektif önizleme](onizleme-perspektif.png)

@@ -1,0 +1,5 @@
+**Tamamlandı:** [sonuc.blend](sonuc.blend) ve [RAPOR.md](RAPOR.md) hazır.
+
+12 parçanın tamamı `Molly's Nightstand` koleksiyonunda; malzeme ve doku atanmadı. Ön ve çapraz renderlar kontrol edildi, panel yüzeyindeki izler düzeltildi.
+
+[Önizlemeyi aç](preview-perspective.png).

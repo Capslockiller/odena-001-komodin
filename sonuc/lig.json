@@ -1,0 +1,925 @@
+{
+  "surum": 1,
+  "bootstrap_sayisi": 1000,
+  "tablolar": {
+    "insan": {
+      "astra-med": {
+        "guc": 0.4756866136720885,
+        "elo": 870.9283720330482,
+        "ga95": [
+          647.0626481638641,
+          1006.9020352734759
+        ],
+        "katman": 3
+      },
+      "fable-med": {
+        "guc": 2.809387155437549,
+        "elo": 1179.4446369955717,
+        "ga95": [
+          1009.866890272622,
+          1348.8949369739707
+        ],
+        "katman": 2
+      },
+      "gemini-high": {
+        "guc": 2.2351912980671877,
+        "elo": 1139.7258792001044,
+        "ga95": [
+          961.0350292282767,
+          1282.580693847568
+        ],
+        "katman": 2
+      },
+      "gemini-pro": {
+        "guc": 0.8267135554747115,
+        "elo": 966.942023494124,
+        "ga95": [
+          770.0161641294641,
+          1081.8817716957244
+        ],
+        "katman": 2
+      },
+      "haiku": {
+        "guc": 0.07087694455736442,
+        "elo": 540.2019948920149,
+        "ga95": [
+          230.52634045859898,
+          660.2764532594249
+        ],
+        "katman": 3
+      },
+      "opus-med": {
+        "guc": 53.92840588019104,
+        "elo": 1692.7270331056684,
+        "ga95": [
+          1477.9847406367705,
+          2460.827162373632
+        ],
+        "katman": 1
+      },
+      "sol-med": {
+        "guc": 0.3948054827417318,
+        "elo": 838.5532700690966,
+        "ga95": [
+          630.6514859663198,
+          953.2340027364382
+        ],
+        "katman": 3
+      },
+      "sonnet-med": {
+        "guc": 0.26834405334869443,
+        "elo": 771.4767902103717,
+        "ga95": [
+          558.3819988502081,
+          874.0638915095919
+        ],
+        "katman": 3
+      }
+    },
+    "yapay": {
+      "astra-med": {
+        "guc": 2.03318552192486,
+        "elo": 1123.2708033926856,
+        "ga95": [
+          794.0816862593912,
+          1752.613116622623
+        ],
+        "katman": 1
+      },
+      "fable-med": {
+        "guc": 15.465008423607536,
+        "elo": 1475.740064357736,
+        "ga95": [
+          1271.7651107153927,
+          2761.943172713055
+        ],
+        "katman": 1
+      },
+      "gemini-high": {
+        "guc": 0.7325505776465097,
+        "elo": 945.9350460593226,
+        "ga95": [
+          252.98973691312094,
+          1389.5835085002354
+        ],
+        "katman": 1
+      },
+      "gemini-pro": {
+        "guc": 0.9354235390353571,
+        "elo": 988.4033177254831,
+        "ga95": [
+          298.54532911167007,
+          1758.4661738620487
+        ],
+        "katman": 1
+      },
+      "haiku": {
+        "guc": 0.049914381732447034,
+        "elo": 479.2902784268716,
+        "ga95": [
+          -1012.7442266979965,
+          703.6905849583804
+        ],
+        "katman": 2
+      },
+      "opus-med": {
+        "guc": 2.4039098771664205,
+        "elo": 1152.3672727560768,
+        "ga95": [
+          914.685831755603,
+          1619.7459796420394
+        ],
+        "katman": 1
+      },
+      "sol-med": {
+        "guc": 0.29139019400995625,
+        "elo": 785.7899730449374,
+        "ga95": [
+          -15.876626052574704,
+          1162.162619224292
+        ],
+        "katman": 2
+      },
+      "sonnet-med": {
+        "guc": 1.3274192474890774,
+        "elo": 1049.203244236887,
+        "ga95": [
+          684.5717473590228,
+          1682.486252278556
+        ],
+        "katman": 1
+      }
+    }
+  },
+  "metrik_medyanlari": {
+    "dinov2_best": {
+      "astra-med": 0.884073,
+      "fable-med": 0.907574,
+      "gemini-high": 0.878217,
+      "gemini-pro": 0.843075,
+      "haiku": 0.638584,
+      "opus-med": 0.922539,
+      "sol-med": 0.8866,
+      "sonnet-med": 0.878626
+    },
+    "gorsel.dinov2.best": {
+      "astra-med": 0.884073,
+      "fable-med": 0.907574,
+      "gemini-high": 0.878217,
+      "gemini-pro": 0.843075,
+      "haiku": 0.638584,
+      "opus-med": 0.922539,
+      "sol-med": 0.8866,
+      "sonnet-med": 0.878626
+    },
+    "gorsel.dinov2.paired": {
+      "astra-med": 0.884073,
+      "fable-med": 0.907574,
+      "gemini-high": 0.878217,
+      "gemini-pro": 0.842907,
+      "haiku": 0.502999,
+      "opus-med": 0.922539,
+      "sol-med": 0.8866,
+      "sonnet-med": 0.878513
+    },
+    "gorsel.siglip2.best": {
+      "astra-med": 0.924458,
+      "fable-med": 0.937754,
+      "gemini-high": 0.911899,
+      "gemini-pro": 0.912181,
+      "haiku": 0.847375,
+      "opus-med": 0.945462,
+      "sol-med": 0.928536,
+      "sonnet-med": 0.924816
+    },
+    "gorsel.siglip2.paired": {
+      "astra-med": 0.924458,
+      "fable-med": 0.937754,
+      "gemini-high": 0.911822,
+      "gemini-pro": 0.912181,
+      "haiku": 0.810712,
+      "opus-med": 0.945462,
+      "sol-med": 0.928426,
+      "sonnet-med": 0.92481
+    },
+    "gorsel_kodlama_sn": {
+      "astra-med": 0.16,
+      "fable-med": 0.157,
+      "gemini-high": 0.158,
+      "gemini-pro": 0.158,
+      "haiku": 0.16,
+      "opus-med": 0.158,
+      "sol-med": 0.159,
+      "sonnet-med": 0.158
+    },
+    "gorsel_render_sn": {
+      "astra-med": 1.7,
+      "fable-med": 1.6,
+      "gemini-high": 2.1,
+      "gemini-pro": 1.7,
+      "haiku": 1.6,
+      "opus-med": 1.6,
+      "sol-med": 1.6,
+      "sonnet-med": 1.6
+    },
+    "gpu_tepe_mb.dinov2": {
+      "astra-med": 1221.0,
+      "fable-med": 1221.0,
+      "gemini-high": 1221.0,
+      "gemini-pro": 1221.0,
+      "haiku": 1221.0,
+      "opus-med": 1221.0,
+      "sol-med": 1221.0,
+      "sonnet-med": 1221.0
+    },
+    "gpu_tepe_mb.siglip2": {
+      "astra-med": 4399.0,
+      "fable-med": 4399.0,
+      "gemini-high": 4399.0,
+      "gemini-pro": 4399.0,
+      "haiku": 4399.0,
+      "opus-med": 4399.0,
+      "sol-med": 4399.0,
+      "sonnet-med": 4399.0
+    },
+    "istatistik.benzersiz_mesh": {
+      "astra-med": 12.0,
+      "fable-med": 12.0,
+      "gemini-high": 10.0,
+      "gemini-pro": 12.0,
+      "haiku": 10.0,
+      "opus-med": 10.0,
+      "sol-med": 12.0,
+      "sonnet-med": 10.0
+    },
+    "istatistik.dortgen": {
+      "astra-med": 16704.0,
+      "fable-med": 2304.0,
+      "gemini-high": 3984.0,
+      "gemini-pro": 2210.0,
+      "haiku": 1074.0,
+      "opus-med": 5576.0,
+      "sol-med": 12048.0,
+      "sonnet-med": 2276.0
+    },
+    "istatistik.gevsek_vertex": {
+      "astra-med": 0.0,
+      "fable-med": 0.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 0.0,
+      "haiku": 0.0,
+      "opus-med": 0.0,
+      "sol-med": 0.0,
+      "sonnet-med": 0.0
+    },
+    "istatistik.ham_e": {
+      "astra-med": 34800.0,
+      "fable-med": 5056.0,
+      "gemini-high": 8840.0,
+      "gemini-pro": 4872.0,
+      "haiku": 2452.0,
+      "opus-med": 11660.0,
+      "sol-med": 25440.0,
+      "sonnet-med": 6214.0
+    },
+    "istatistik.ham_f": {
+      "astra-med": 16916.0,
+      "fable-med": 2448.0,
+      "gemini-high": 4540.0,
+      "gemini-pro": 2352.0,
+      "haiku": 1212.0,
+      "opus-med": 5612.0,
+      "sol-med": 12576.0,
+      "sonnet-med": 2960.0
+    },
+    "istatistik.ham_v": {
+      "astra-med": 17908.0,
+      "fable-med": 2632.0,
+      "gemini-high": 4320.0,
+      "gemini-pro": 2542.0,
+      "haiku": 1246.0,
+      "opus-med": 6064.0,
+      "sol-med": 12888.0,
+      "sonnet-med": 3268.0
+    },
+    "istatistik.malzeme": {
+      "astra-med": 0.0,
+      "fable-med": 0.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 0.0,
+      "haiku": 0.0,
+      "opus-med": 0.0,
+      "sol-med": 0.0,
+      "sonnet-med": 0.0
+    },
+    "istatistik.manifold_disi_kenar": {
+      "astra-med": 0.0,
+      "fable-med": 0.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 0.0,
+      "haiku": 0.0,
+      "opus-med": 0.0,
+      "sol-med": 0.0,
+      "sonnet-med": 56.0
+    },
+    "istatistik.modifier_sayim.BEVEL": {
+      "astra-med": 7.0,
+      "fable-med": 9.0,
+      "gemini-high": 4.5,
+      "gemini-pro": 7.0,
+      "haiku": 4.0,
+      "opus-med": 5.0,
+      "sol-med": 7.0,
+      "sonnet-med": 3.0
+    },
+    "istatistik.modifier_sayim.LATTICE": {
+      "gemini-pro": 5.0
+    },
+    "istatistik.modifier_sayim.MIRROR": {
+      "gemini-high": 1.0
+    },
+    "istatistik.modifier_sayim.NODES": {
+      "fable-med": 12.0
+    },
+    "istatistik.modifier_sayim.SCREW": {
+      "opus-med": 2.0
+    },
+    "istatistik.modifier_sayim.SOLIDIFY": {
+      "gemini-pro": 2.0,
+      "opus-med": 2.0,
+      "sonnet-med": 2.0
+    },
+    "istatistik.modifier_sayim.SUBSURF": {
+      "astra-med": 5.0,
+      "gemini-high": 7.0,
+      "gemini-pro": 3.0,
+      "haiku": 2.0,
+      "opus-med": 2.0
+    },
+    "istatistik.modifier_sayim.WEIGHTED_NORMAL": {
+      "astra-med": 9.5,
+      "gemini-high": 8.0,
+      "opus-med": 8.0,
+      "sol-med": 7.0,
+      "sonnet-med": 2.0
+    },
+    "istatistik.nesne": {
+      "astra-med": 12.0,
+      "fable-med": 12.0,
+      "gemini-high": 10.0,
+      "gemini-pro": 12.0,
+      "haiku": 10.0,
+      "opus-med": 10.0,
+      "sol-med": 12.0,
+      "sonnet-med": 10.0
+    },
+    "istatistik.ngon": {
+      "astra-med": 20.0,
+      "fable-med": 16.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 14.0,
+      "haiku": 4.0,
+      "opus-med": 16.0,
+      "sol-med": 16.0,
+      "sonnet-med": 16.0
+    },
+    "istatistik.olcek_uygulanmamis": {
+      "astra-med": 0.0,
+      "fable-med": 0.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 0.0,
+      "haiku": 0.0,
+      "opus-med": 0.0,
+      "sol-med": 0.0,
+      "sonnet-med": 0.0
+    },
+    "istatistik.paylasilan_kopya": {
+      "astra-med": 0.0,
+      "fable-med": 0.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 0.0,
+      "haiku": 0.0,
+      "opus-med": 0.0,
+      "sol-med": 0.0,
+      "sonnet-med": 0.0
+    },
+    "istatistik.son_f": {
+      "astra-med": 154852.0,
+      "fable-med": 4268.0,
+      "gemini-high": 15264.0,
+      "gemini-pro": 16838.0,
+      "haiku": 3584.0,
+      "opus-med": 9124.0,
+      "sol-med": 16032.0,
+      "sonnet-med": 5320.0
+    },
+    "istatistik.son_ucgen": {
+      "astra-med": 309688.0,
+      "fable-med": 8856.0,
+      "gemini-high": 30528.0,
+      "gemini-pro": 31388.0,
+      "haiku": 7168.0,
+      "opus-med": 18568.0,
+      "sol-med": 32640.0,
+      "sonnet-med": 10928.0
+    },
+    "istatistik.son_v": {
+      "astra-med": 154868.0,
+      "fable-med": 4452.0,
+      "gemini-high": 15284.0,
+      "gemini-pro": 15718.0,
+      "haiku": 3640.0,
+      "opus-med": 9304.0,
+      "sol-med": 16344.0,
+      "sonnet-med": 5536.0
+    },
+    "istatistik.ucgen_yuz": {
+      "astra-med": 192.0,
+      "fable-med": 128.0,
+      "gemini-high": 480.0,
+      "gemini-pro": 128.0,
+      "haiku": 128.0,
+      "opus-med": 160.0,
+      "sol-med": 512.0,
+      "sonnet-med": 96.0
+    },
+    "kafes_vertex": {
+      "astra-med": 17908.0,
+      "fable-med": 2632.0,
+      "gemini-high": 4320.0,
+      "gemini-pro": 2542.0,
+      "haiku": 1246.0,
+      "opus-med": 6064.0,
+      "sol-med": 12888.0,
+      "sonnet-med": 3268.0
+    },
+    "kontrol.hata_veren_kontrol": {
+      "astra-med": 0.0,
+      "fable-med": 0.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 0.0,
+      "haiku": 0.0,
+      "opus-med": 0.0,
+      "sol-med": 0.0,
+      "sonnet-med": 0.0
+    },
+    "kontrol.ihlal_toplam": {
+      "astra-med": 32.0,
+      "fable-med": 34.0,
+      "gemini-high": 27.0,
+      "gemini-pro": 22.0,
+      "haiku": 24.0,
+      "opus-med": 24.0,
+      "sol-med": 29.0,
+      "sonnet-med": 23.0
+    },
+    "kontrol.ihlalli_kontrol": {
+      "astra-med": 7.0,
+      "fable-med": 5.0,
+      "gemini-high": 5.0,
+      "gemini-pro": 5.0,
+      "haiku": 6.0,
+      "opus-med": 5.0,
+      "sol-med": 5.0,
+      "sonnet-med": 6.0
+    },
+    "kontrol.kontrol_sayisi": {
+      "astra-med": 34.0,
+      "fable-med": 34.0,
+      "gemini-high": 34.0,
+      "gemini-pro": 34.0,
+      "haiku": 34.0,
+      "opus-med": 34.0,
+      "sol-med": 34.0,
+      "sonnet-med": 34.0
+    },
+    "kontrol_kirmizi": {
+      "astra-med": 0.0,
+      "fable-med": 0.0,
+      "gemini-high": 0.0,
+      "gemini-pro": 0.0,
+      "haiku": 0.0,
+      "opus-med": 0.0,
+      "sol-med": 0.0,
+      "sonnet-med": 0.0
+    },
+    "oran_biz.ucgen": {
+      "astra-med": 309688.0,
+      "fable-med": 8856.0,
+      "gemini-high": 30528.0,
+      "gemini-pro": 31388.0,
+      "haiku": 7168.0,
+      "opus-med": 18568.0,
+      "sol-med": 32640.0,
+      "sonnet-med": 10928.0
+    },
+    "oran_usta.ucgen": {
+      "astra-med": 48240.0,
+      "fable-med": 48240.0,
+      "gemini-high": 48240.0,
+      "gemini-pro": 48240.0,
+      "haiku": 48240.0,
+      "opus-med": 48240.0,
+      "sol-med": 48240.0,
+      "sonnet-med": 48240.0
+    },
+    "sekil_mesafesi.biz->usta.en_buyuk": {
+      "astra-med": 0.1165,
+      "fable-med": 0.0658,
+      "gemini-high": 0.079,
+      "gemini-pro": 0.0915,
+      "haiku": 0.1512,
+      "opus-med": 0.0712,
+      "sol-med": 0.0963,
+      "sonnet-med": 0.0674
+    },
+    "sekil_mesafesi.biz->usta.ortalama": {
+      "astra-med": 0.0145,
+      "fable-med": 0.019,
+      "gemini-high": 0.0202,
+      "gemini-pro": 0.0162,
+      "haiku": 0.0404,
+      "opus-med": 0.0234,
+      "sol-med": 0.0134,
+      "sonnet-med": 0.0142
+    },
+    "sekil_mesafesi.biz->usta.p95": {
+      "astra-med": 0.0394,
+      "fable-med": 0.0451,
+      "gemini-high": 0.0438,
+      "gemini-pro": 0.0434,
+      "haiku": 0.074,
+      "opus-med": 0.0443,
+      "sol-med": 0.0366,
+      "sonnet-med": 0.0361
+    },
+    "sekil_mesafesi.usta->biz.en_buyuk": {
+      "astra-med": 0.1115,
+      "fable-med": 0.0741,
+      "gemini-high": 0.0793,
+      "gemini-pro": 0.1006,
+      "haiku": 0.0786,
+      "opus-med": 0.0738,
+      "sol-med": 0.0915,
+      "sonnet-med": 0.0791
+    },
+    "sekil_mesafesi.usta->biz.ortalama": {
+      "astra-med": 0.0134,
+      "fable-med": 0.0168,
+      "gemini-high": 0.0198,
+      "gemini-pro": 0.0163,
+      "haiku": 0.028,
+      "opus-med": 0.0212,
+      "sol-med": 0.0119,
+      "sonnet-med": 0.0126
+    },
+    "sekil_mesafesi.usta->biz.p95": {
+      "astra-med": 0.0395,
+      "fable-med": 0.044,
+      "gemini-high": 0.0476,
+      "gemini-pro": 0.0492,
+      "haiku": 0.0591,
+      "opus-med": 0.0432,
+      "sol-med": 0.0356,
+      "sonnet-med": 0.0375
+    },
+    "sekil_ortalama": {
+      "astra-med": 0.01355,
+      "fable-med": 0.0179,
+      "gemini-high": 0.02,
+      "gemini-pro": 0.01625,
+      "haiku": 0.0355,
+      "opus-med": 0.0223,
+      "sol-med": 0.012650000000000002,
+      "sonnet-med": 0.0134
+    },
+    "siglip2_best": {
+      "astra-med": 0.924458,
+      "fable-med": 0.937754,
+      "gemini-high": 0.911899,
+      "gemini-pro": 0.912181,
+      "haiku": 0.847375,
+      "opus-med": 0.945462,
+      "sol-med": 0.928536,
+      "sonnet-med": 0.924816
+    },
+    "tel_vertex": {
+      "astra-med": 17908.0,
+      "fable-med": 2632.0,
+      "gemini-high": 4320.0,
+      "gemini-pro": 2542.0,
+      "haiku": 1246.0,
+      "opus-med": 6064.0,
+      "sol-med": 12888.0,
+      "sonnet-med": 3268.0
+    },
+    "token.cikti": {
+      "astra-med": 7205.0,
+      "fable-med": 26858.0,
+      "gemini-high": 106229.0,
+      "gemini-pro": 19344.0,
+      "haiku": 26078.0,
+      "opus-med": 15769.0,
+      "sol-med": 7723.0,
+      "sonnet-med": 8732.0
+    },
+    "token.dusunme": {
+      "astra-med": 1402.0,
+      "fable-med": 11941.0,
+      "gemini-high": 48066.0,
+      "gemini-pro": 13524.0,
+      "haiku": 2626.0,
+      "opus-med": 5363.0,
+      "sol-med": 1472.0,
+      "sonnet-med": 3153.0
+    },
+    "token.girdi": {
+      "astra-med": 244148.0,
+      "fable-med": 674.0,
+      "gemini-high": 584830.0,
+      "gemini-pro": 48122.0,
+      "haiku": 298.0,
+      "opus-med": 22.0,
+      "sol-med": 231220.0,
+      "sonnet-med": 12.0
+    },
+    "token.onbellek_okuma": {
+      "astra-med": 201984.0,
+      "fable-med": 1257099.0,
+      "gemini-high": 7200399.0,
+      "gemini-pro": 203943.0,
+      "haiku": 2098483.0,
+      "opus-med": 534942.0,
+      "sol-med": 197248.0,
+      "sonnet-med": 223040.0
+    },
+    "token.onbellek_yazma": {
+      "fable-med": 50572.0,
+      "haiku": 61321.0,
+      "opus-med": 36939.0,
+      "sonnet-med": 18575.0
+    },
+    "token.sure_sn": {
+      "fable-med": 367.987,
+      "gemini-high": 1906.7471545,
+      "gemini-pro": 194.0617397,
+      "haiku": 262.894,
+      "opus-med": 172.588,
+      "sonnet-med": 92.827
+    },
+    "token.toplam": {
+      "gemini-high": 701185.0,
+      "gemini-pro": 71263.0
+    },
+    "token.usd": {
+      "fable-med": 2.6753547500000003,
+      "haiku": 0.49038490000000007,
+      "opus-med": 0.7740388000000001,
+      "sonnet-med": 0.2115552
+    }
+  },
+  "insan_elo_spearman": {
+    "dinov2_best": {
+      "n": 8,
+      "spearman": 0.6190476190476191
+    },
+    "gorsel.dinov2.best": {
+      "n": 8,
+      "spearman": 0.6190476190476191
+    },
+    "gorsel.dinov2.paired": {
+      "n": 8,
+      "spearman": 0.6190476190476191
+    },
+    "gorsel.siglip2.best": {
+      "n": 8,
+      "spearman": 0.5476190476190477
+    },
+    "gorsel.siglip2.paired": {
+      "n": 8,
+      "spearman": 0.5476190476190477
+    },
+    "gorsel_kodlama_sn": {
+      "n": 8,
+      "spearman": -0.664052277510436
+    },
+    "gorsel_render_sn": {
+      "n": 8,
+      "spearman": 0.20619652471058061
+    },
+    "gpu_tepe_mb.dinov2": {
+      "n": 8,
+      "spearman": null
+    },
+    "gpu_tepe_mb.siglip2": {
+      "n": 8,
+      "spearman": null
+    },
+    "istatistik.benzersiz_mesh": {
+      "n": 8,
+      "spearman": 0.10910894511799617
+    },
+    "istatistik.dortgen": {
+      "n": 8,
+      "spearman": 0.3333333333333333
+    },
+    "istatistik.gevsek_vertex": {
+      "n": 8,
+      "spearman": null
+    },
+    "istatistik.ham_e": {
+      "n": 8,
+      "spearman": 0.21428571428571427
+    },
+    "istatistik.ham_f": {
+      "n": 8,
+      "spearman": 0.21428571428571427
+    },
+    "istatistik.ham_v": {
+      "n": 8,
+      "spearman": 0.21428571428571427
+    },
+    "istatistik.malzeme": {
+      "n": 8,
+      "spearman": null
+    },
+    "istatistik.manifold_disi_kenar": {
+      "n": 8,
+      "spearman": -0.4123930494211613
+    },
+    "istatistik.modifier_sayim.BEVEL": {
+      "n": 8,
+      "spearman": 0.48795003647426655
+    },
+    "istatistik.modifier_sayim.LATTICE": {
+      "n": 1,
+      "spearman": null
+    },
+    "istatistik.modifier_sayim.MIRROR": {
+      "n": 1,
+      "spearman": null
+    },
+    "istatistik.modifier_sayim.NODES": {
+      "n": 1,
+      "spearman": null
+    },
+    "istatistik.modifier_sayim.SCREW": {
+      "n": 1,
+      "spearman": null
+    },
+    "istatistik.modifier_sayim.SOLIDIFY": {
+      "n": 3,
+      "spearman": null
+    },
+    "istatistik.modifier_sayim.SUBSURF": {
+      "n": 5,
+      "spearman": 0.10259783520851541
+    },
+    "istatistik.modifier_sayim.WEIGHTED_NORMAL": {
+      "n": 5,
+      "spearman": 0.6668859288553503
+    },
+    "istatistik.nesne": {
+      "n": 8,
+      "spearman": 0.10910894511799617
+    },
+    "istatistik.ngon": {
+      "n": 8,
+      "spearman": 0.07610194341477616
+    },
+    "istatistik.olcek_uygulanmamis": {
+      "n": 8,
+      "spearman": null
+    },
+    "istatistik.paylasilan_kopya": {
+      "n": 8,
+      "spearman": null
+    },
+    "istatistik.son_f": {
+      "n": 8,
+      "spearman": 0.14285714285714285
+    },
+    "istatistik.son_ucgen": {
+      "n": 8,
+      "spearman": 0.09523809523809523
+    },
+    "istatistik.son_v": {
+      "n": 8,
+      "spearman": 0.09523809523809523
+    },
+    "istatistik.ucgen_yuz": {
+      "n": 8,
+      "spearman": 0.21957751641341994
+    },
+    "kafes_vertex": {
+      "n": 8,
+      "spearman": 0.21428571428571427
+    },
+    "kontrol.hata_veren_kontrol": {
+      "n": 8,
+      "spearman": null
+    },
+    "kontrol.ihlal_toplam": {
+      "n": 8,
+      "spearman": 0.25150151500178436
+    },
+    "kontrol.ihlalli_kontrol": {
+      "n": 8,
+      "spearman": -0.6460824440931526
+    },
+    "kontrol.kontrol_sayisi": {
+      "n": 8,
+      "spearman": null
+    },
+    "kontrol_kirmizi": {
+      "n": 8,
+      "spearman": null
+    },
+    "oran_biz.ucgen": {
+      "n": 8,
+      "spearman": 0.09523809523809523
+    },
+    "oran_usta.ucgen": {
+      "n": 8,
+      "spearman": null
+    },
+    "sekil_mesafesi.biz->usta.en_buyuk": {
+      "n": 8,
+      "spearman": -0.5714285714285714
+    },
+    "sekil_mesafesi.biz->usta.ortalama": {
+      "n": 8,
+      "spearman": 0.2857142857142857
+    },
+    "sekil_mesafesi.biz->usta.p95": {
+      "n": 8,
+      "spearman": 0.30952380952380953
+    },
+    "sekil_mesafesi.usta->biz.en_buyuk": {
+      "n": 8,
+      "spearman": -0.3333333333333333
+    },
+    "sekil_mesafesi.usta->biz.ortalama": {
+      "n": 8,
+      "spearman": 0.2857142857142857
+    },
+    "sekil_mesafesi.usta->biz.p95": {
+      "n": 8,
+      "spearman": 0.07142857142857142
+    },
+    "sekil_ortalama": {
+      "n": 8,
+      "spearman": 0.2857142857142857
+    },
+    "siglip2_best": {
+      "n": 8,
+      "spearman": 0.5476190476190477
+    },
+    "tel_vertex": {
+      "n": 8,
+      "spearman": 0.21428571428571427
+    },
+    "token.cikti": {
+      "n": 8,
+      "spearman": 0.3333333333333333
+    },
+    "token.dusunme": {
+      "n": 8,
+      "spearman": 0.5714285714285714
+    },
+    "token.girdi": {
+      "n": 8,
+      "spearman": 0.14285714285714285
+    },
+    "token.onbellek_okuma": {
+      "n": 8,
+      "spearman": 0.21428571428571427
+    },
+    "token.onbellek_yazma": {
+      "n": 4,
+      "spearman": -0.3999999999999999
+    },
+    "token.sure_sn": {
+      "n": 6,
+      "spearman": 0.14285714285714285
+    },
+    "token.toplam": {
+      "n": 2,
+      "spearman": 0.9999999999999998
+    },
+    "token.usd": {
+      "n": 4,
+      "spearman": 0.5999999999999999
+    }
+  },
+  "insan_degerlendirici_uyumu": {
+    "ortak_cift": 56,
+    "yuzde_uyum": 58.92857142857143,
+    "krippendorff_alpha": 0.3411612903225807
+  },
+  "yapay_insan_uyumu": {
+    "ortak_cift": 38,
+    "yuzde_uyum": 61.36363636363637,
+    "birlesik_krippendorff_alpha": 0.29839347894903456
+  }
+}

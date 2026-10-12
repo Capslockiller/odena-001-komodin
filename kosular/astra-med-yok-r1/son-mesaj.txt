@@ -1,0 +1,7 @@
+**Tamamlandı:** [sonuc.blend](sonuc.blend) ve [RAPOR.md](RAPOR.md).
+
+12 parça `Molly's Nightstand` koleksiyonunda; malzeme atanmadı. Üç açıdan render incelendi, dosya yeniden açılarak geometri doğrulandı.
+
+**Yorum:** Belirsiz ölçü ve biçim tercihleri raporda belirtildi.
+
+[Çapraz önizleme](onizleme_capraz.png)

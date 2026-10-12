@@ -1,0 +1,34 @@
+{
+  "surum": 1,
+  "tohum": 7,
+  "harita": {
+    "a5cd68": "astra-med-yok-r1",
+    "4d3c1a": "astra-med-yok-r2",
+    "ca264e": "astra-med-yok-r3",
+    "18b8ff": "fable-med-yok-r1",
+    "25165e": "fable-med-yok-r2",
+    "3031d0": "fable-med-yok-r3",
+    "bb3b93": "gemini-high-yok-r1",
+    "1db208": "gemini-high-yok-r2",
+    "6deceb": "gemini-high-yok-r3",
+    "1332a1": "gemini-pro-yok-r1",
+    "2c0146": "gemini-pro-yok-r2",
+    "de06ce": "gemini-pro-yok-r3",
+    "d61aa9": "haiku-yok-r1",
+    "23c417": "haiku-yok-r2",
+    "7b382e": "haiku-yok-r3",
+    "2e71ef": "opus-med-yok-r1",
+    "d95a94": "opus-med-yok-r2",
+    "1e43bb": "opus-med-yok-r3",
+    "3f62f8": "sol-med-yok-r1",
+    "724c60": "sol-med-yok-r2",
+    "1fac61": "sol-med-yok-r3",
+    "cb19b4": "sonnet-med-yok-r1",
+    "1963c5": "sonnet-med-yok-r2",
+    "7131a3": "sonnet-med-yok-r3"
+  },
+  "kirmizi": [],
+  "atlanan": [
+    "usta"
+  ]
+}

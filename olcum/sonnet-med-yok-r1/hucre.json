@@ -1,0 +1,104 @@
+{
+ "etiket": "sonnet-med-yok-r1",
+ "blend": "<tezgah>\\kosular\\test-v2\\sonnet-med-yok-r1\\sonuc.blend",
+ "durum": "TAMAM",
+ "sebepler": [],
+ "istatistik": {
+  "ham_v": 1546,
+  "ham_e": 2908,
+  "ham_f": 1384,
+  "ucgen_yuz": 96,
+  "dortgen": 1272,
+  "ngon": 16,
+  "manifold_disi_kenar": 56,
+  "gevsek_vertex": 0,
+  "son_v": 2712,
+  "son_f": 2584,
+  "son_ucgen": 5376,
+  "nesne": 12,
+  "benzersiz_mesh": 12,
+  "paylasilan_kopya": 0,
+  "olcek_uygulanmamis": 2,
+  "malzeme": 0,
+  "modifier_sayim": {
+   "WEIGHTED_NORMAL": 2,
+   "SOLIDIFY": 2,
+   "BEVEL": 6
+  }
+ },
+ "sekil_mesafesi": {
+  "biz->usta": {
+   "ortalama": 0.0152,
+   "p95": 0.0341,
+   "en_buyuk": 0.0602
+  },
+  "usta->biz": {
+   "ortalama": 0.0158,
+   "p95": 0.0548,
+   "en_buyuk": 0.0886
+  }
+ },
+ "oran_biz": {
+  "boyut_ham": [
+   0.43,
+   0.441,
+   0.8
+  ],
+  "oran_GxDxY": [
+   0.538,
+   0.551,
+   1.0
+  ],
+  "ucgen": 5376
+ },
+ "oran_usta": {
+  "boyut_ham": [
+   1.804,
+   1.81,
+   3.725
+  ],
+  "oran_GxDxY": [
+   0.484,
+   0.486,
+   1.0
+  ],
+  "ucgen": 48240
+ },
+ "tel_vertex": 1546,
+ "kontrol_profil": "modelleme",
+ "kontrol_kirmizi": 0,
+ "kontrol": {
+  "ihlal_toplam": 23,
+  "ihlalli_kontrol": 5,
+  "hata_veren_kontrol": 0,
+  "kontrol_sayisi": 34
+ },
+ "gorsel_render_sn": 1.6,
+ "token": {
+  "girdi": 16,
+  "cikti": 7848,
+  "onbellek_okuma": 293716,
+  "onbellek_yazma": 18575,
+  "dusunme": 1229,
+  "toplam": null,
+  "sure_sn": 92.827,
+  "usd": 0.2115552,
+  "usd_kaynak": "claude total_cost_usd"
+ },
+ "token_dosyasi": "cikti.json",
+ "gorsel": {
+  "siglip2": {
+   "paired": 0.931712,
+   "best": 0.931712
+  },
+  "dinov2": {
+   "paired": 0.875979,
+   "best": 0.875979
+  }
+ },
+ "gorsel_kodlama_sn": 0.157,
+ "gpu_tepe_mb": {
+  "siglip2": 4399,
+  "dinov2": 1221
+ }
+}

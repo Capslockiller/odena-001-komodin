@@ -1,0 +1,91 @@
+{
+  "yazan": "codex",
+  "model": "gpt-6-astra",
+  "reopened_blend": true,
+  "checks": {
+    "01_Govde_bombeli": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.06755180742863492,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "02_Tabla_dolgun_ust_hafif_pah_alti": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.008126009833405168,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "03_Alt_kapak": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.0016518751934112021,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "04_Ust_cekmece": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.0008526146375395159,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "05_1_Kulp_kisa_mil": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 1.1911820275482553e-06,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "05_2_Kulp_kisa_mil": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 1.1911820275482553e-06,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "06_1_Basik_yuvarlak_topuz": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 9.357696423782279e-06,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "06_2_Basik_yuvarlak_topuz": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 9.357696423782279e-06,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "07_1_Kisa_kalin_ayak": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.00034606955849896947,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "07_2_Kisa_kalin_ayak": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.00034606955849896925,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "07_3_Kisa_kalin_ayak": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.0003460695584989691,
+      "in_required_collection": true,
+      "material_slots": 0
+    },
+    "07_4_Kisa_kalin_ayak": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_m3": 0.00034606955849896903,
+      "in_required_collection": true,
+      "material_slots": 0
+    }
+  }
+}

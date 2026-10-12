@@ -1,0 +1,426 @@
+{
+  "surum": 1,
+  "tohum": 19,
+  "ciftler": [
+    {
+      "cift_id": "c00001",
+      "sol": "18b8ff",
+      "sag": "1332a1"
+    },
+    {
+      "cift_id": "c00002",
+      "sol": "d95a94",
+      "sag": "25165e"
+    },
+    {
+      "cift_id": "c00003",
+      "sol": "cb19b4",
+      "sag": "d61aa9"
+    },
+    {
+      "cift_id": "c00004",
+      "sol": "23c417",
+      "sag": "1db208"
+    },
+    {
+      "cift_id": "c00005",
+      "sol": "ca264e",
+      "sag": "3031d0"
+    },
+    {
+      "cift_id": "c00006",
+      "sol": "a5cd68",
+      "sag": "18b8ff"
+    },
+    {
+      "cift_id": "c00007",
+      "sol": "1fac61",
+      "sag": "6deceb"
+    },
+    {
+      "cift_id": "c00008",
+      "sol": "a5cd68",
+      "sag": "1332a1"
+    },
+    {
+      "cift_id": "c00009",
+      "sol": "2c0146",
+      "sag": "4d3c1a"
+    },
+    {
+      "cift_id": "c00010",
+      "sol": "3031d0",
+      "sag": "6deceb"
+    },
+    {
+      "cift_id": "c00011",
+      "sol": "25165e",
+      "sag": "724c60"
+    },
+    {
+      "cift_id": "c00012",
+      "sol": "6deceb",
+      "sag": "7131a3"
+    },
+    {
+      "cift_id": "c00013",
+      "sol": "3031d0",
+      "sag": "de06ce"
+    },
+    {
+      "cift_id": "c00014",
+      "sol": "3f62f8",
+      "sag": "a5cd68"
+    },
+    {
+      "cift_id": "c00015",
+      "sol": "cb19b4",
+      "sag": "bb3b93"
+    },
+    {
+      "cift_id": "c00016",
+      "sol": "1fac61",
+      "sag": "1e43bb"
+    },
+    {
+      "cift_id": "c00017",
+      "sol": "1963c5",
+      "sag": "2c0146"
+    },
+    {
+      "cift_id": "c00018",
+      "sol": "7b382e",
+      "sag": "ca264e"
+    },
+    {
+      "cift_id": "c00019",
+      "sol": "bb3b93",
+      "sag": "1332a1"
+    },
+    {
+      "cift_id": "c00020",
+      "sol": "1963c5",
+      "sag": "d95a94"
+    },
+    {
+      "cift_id": "c00021",
+      "sol": "3f62f8",
+      "sag": "d61aa9"
+    },
+    {
+      "cift_id": "c00022",
+      "sol": "d95a94",
+      "sag": "1db208"
+    },
+    {
+      "cift_id": "c00023",
+      "sol": "1fac61",
+      "sag": "7131a3"
+    },
+    {
+      "cift_id": "c00024",
+      "sol": "6deceb",
+      "sag": "7b382e"
+    },
+    {
+      "cift_id": "c00025",
+      "sol": "23c417",
+      "sag": "25165e"
+    },
+    {
+      "cift_id": "c00026",
+      "sol": "7131a3",
+      "sag": "de06ce"
+    },
+    {
+      "cift_id": "c00027",
+      "sol": "1db208",
+      "sag": "1963c5"
+    },
+    {
+      "cift_id": "c00028",
+      "sol": "3031d0",
+      "sag": "7131a3"
+    },
+    {
+      "cift_id": "c00029",
+      "sol": "1db208",
+      "sag": "2c0146"
+    },
+    {
+      "cift_id": "c00030",
+      "sol": "2e71ef",
+      "sag": "3f62f8"
+    },
+    {
+      "cift_id": "c00031",
+      "sol": "724c60",
+      "sag": "d95a94"
+    },
+    {
+      "cift_id": "c00032",
+      "sol": "1e43bb",
+      "sag": "7131a3"
+    },
+    {
+      "cift_id": "c00033",
+      "sol": "23c417",
+      "sag": "1963c5"
+    },
+    {
+      "cift_id": "c00034",
+      "sol": "de06ce",
+      "sag": "7b382e"
+    },
+    {
+      "cift_id": "c00035",
+      "sol": "2e71ef",
+      "sag": "18b8ff"
+    },
+    {
+      "cift_id": "c00036",
+      "sol": "18b8ff",
+      "sag": "d61aa9"
+    },
+    {
+      "cift_id": "c00037",
+      "sol": "bb3b93",
+      "sag": "d61aa9"
+    },
+    {
+      "cift_id": "c00038",
+      "sol": "3f62f8",
+      "sag": "bb3b93"
+    },
+    {
+      "cift_id": "c00039",
+      "sol": "6deceb",
+      "sag": "1e43bb"
+    },
+    {
+      "cift_id": "c00040",
+      "sol": "7b382e",
+      "sag": "1e43bb"
+    },
+    {
+      "cift_id": "c00041",
+      "sol": "cb19b4",
+      "sag": "3f62f8"
+    },
+    {
+      "cift_id": "c00042",
+      "sol": "7b382e",
+      "sag": "7131a3"
+    },
+    {
+      "cift_id": "c00043",
+      "sol": "cb19b4",
+      "sag": "1332a1"
+    },
+    {
+      "cift_id": "c00044",
+      "sol": "2e71ef",
+      "sag": "1332a1"
+    },
+    {
+      "cift_id": "c00045",
+      "sol": "724c60",
+      "sag": "23c417"
+    },
+    {
+      "cift_id": "c00046",
+      "sol": "d95a94",
+      "sag": "2c0146"
+    },
+    {
+      "cift_id": "c00047",
+      "sol": "7b382e",
+      "sag": "3031d0"
+    },
+    {
+      "cift_id": "c00048",
+      "sol": "3f62f8",
+      "sag": "18b8ff"
+    },
+    {
+      "cift_id": "c00049",
+      "sol": "a5cd68",
+      "sag": "cb19b4"
+    },
+    {
+      "cift_id": "c00050",
+      "sol": "2e71ef",
+      "sag": "a5cd68"
+    },
+    {
+      "cift_id": "c00051",
+      "sol": "1db208",
+      "sag": "4d3c1a"
+    },
+    {
+      "cift_id": "c00052",
+      "sol": "1fac61",
+      "sag": "7b382e"
+    },
+    {
+      "cift_id": "c00053",
+      "sol": "de06ce",
+      "sag": "6deceb"
+    },
+    {
+      "cift_id": "c00054",
+      "sol": "ca264e",
+      "sag": "1fac61"
+    },
+    {
+      "cift_id": "c00055",
+      "sol": "2e71ef",
+      "sag": "d61aa9"
+    },
+    {
+      "cift_id": "c00056",
+      "sol": "d95a94",
+      "sag": "23c417"
+    },
+    {
+      "cift_id": "c00057",
+      "sol": "bb3b93",
+      "sag": "a5cd68"
+    },
+    {
+      "cift_id": "c00058",
+      "sol": "ca264e",
+      "sag": "7131a3"
+    },
+    {
+      "cift_id": "c00059",
+      "sol": "3031d0",
+      "sag": "1e43bb"
+    },
+    {
+      "cift_id": "c00060",
+      "sol": "de06ce",
+      "sag": "1fac61"
+    },
+    {
+      "cift_id": "c00061",
+      "sol": "4d3c1a",
+      "sag": "d95a94"
+    },
+    {
+      "cift_id": "c00062",
+      "sol": "2e71ef",
+      "sag": "cb19b4"
+    },
+    {
+      "cift_id": "c00063",
+      "sol": "724c60",
+      "sag": "2c0146"
+    },
+    {
+      "cift_id": "c00064",
+      "sol": "2e71ef",
+      "sag": "bb3b93"
+    },
+    {
+      "cift_id": "c00065",
+      "sol": "6deceb",
+      "sag": "ca264e"
+    },
+    {
+      "cift_id": "c00066",
+      "sol": "1963c5",
+      "sag": "25165e"
+    },
+    {
+      "cift_id": "c00067",
+      "sol": "724c60",
+      "sag": "1db208"
+    },
+    {
+      "cift_id": "c00068",
+      "sol": "4d3c1a",
+      "sag": "25165e"
+    },
+    {
+      "cift_id": "c00069",
+      "sol": "4d3c1a",
+      "sag": "1963c5"
+    },
+    {
+      "cift_id": "c00070",
+      "sol": "1332a1",
+      "sag": "d61aa9"
+    },
+    {
+      "cift_id": "c00071",
+      "sol": "ca264e",
+      "sag": "de06ce"
+    },
+    {
+      "cift_id": "c00072",
+      "sol": "1332a1",
+      "sag": "3f62f8"
+    },
+    {
+      "cift_id": "c00073",
+      "sol": "2c0146",
+      "sag": "25165e"
+    },
+    {
+      "cift_id": "c00074",
+      "sol": "1e43bb",
+      "sag": "ca264e"
+    },
+    {
+      "cift_id": "c00075",
+      "sol": "1e43bb",
+      "sag": "de06ce"
+    },
+    {
+      "cift_id": "c00076",
+      "sol": "18b8ff",
+      "sag": "cb19b4"
+    },
+    {
+      "cift_id": "c00077",
+      "sol": "1963c5",
+      "sag": "724c60"
+    },
+    {
+      "cift_id": "c00078",
+      "sol": "bb3b93",
+      "sag": "18b8ff"
+    },
+    {
+      "cift_id": "c00079",
+      "sol": "4d3c1a",
+      "sag": "724c60"
+    },
+    {
+      "cift_id": "c00080",
+      "sol": "23c417",
+      "sag": "4d3c1a"
+    },
+    {
+      "cift_id": "c00081",
+      "sol": "d61aa9",
+      "sag": "a5cd68"
+    },
+    {
+      "cift_id": "c00082",
+      "sol": "3031d0",
+      "sag": "1fac61"
+    },
+    {
+      "cift_id": "c00083",
+      "sol": "2c0146",
+      "sag": "23c417"
+    },
+    {
+      "cift_id": "c00084",
+      "sol": "1db208",
+      "sag": "25165e"
+    }
+  ]
+}

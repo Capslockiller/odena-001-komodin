@@ -1,0 +1,130 @@
+{
+  "yazan": "codex",
+  "model": "gpt-6",
+  "dimensions_m": [
+    0.4000000059604645,
+    0.41971205174922943,
+    0.800000011920929
+  ],
+  "parts": [
+    {
+      "part": "Carcass - curved sides and back",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Bottom plinth and cabinet floor",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Upper carcass rail",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Lower door - bowed panel",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Upper drawer - bowed front",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Overhanging top - rolled upper edge and lower chamfer",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Front left tapered foot",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Rear left tapered foot",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Front right tapered foot",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Rear right tapered foot",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Door knob - short stem",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Door knob - flattened round grip",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": []
+    },
+    {
+      "part": "Drawer knob - short stem",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "part": "Drawer knob - flattened round grip",
+      "non_manifold_edges": 0,
+      "materials": 0,
+      "modifiers": []
+    }
+  ]
+}

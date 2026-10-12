@@ -1,0 +1,7 @@
+Master Mind, görev tamamlandı.
+
+- [Blender modeli](sonuc.blend)
+- [Rapor](RAPOR.md)
+- [Çapraz önizleme](onizleme_capraz.png)
+
+**Olgu:** 12 parça `Molly's Nightstand` koleksiyonunda; tabla 40 × 40 cm, toplam yükseklik 80 cm. Malzeme atanmadı. Üç açıdan render kontrolü yapıldı, düzeltmeler uygulandı ve kayıtlı dosya yeniden açılarak doğrulandı.

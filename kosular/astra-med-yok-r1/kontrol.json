@@ -1,0 +1,60 @@
+{
+  "yazan": "codex",
+  "model": "gpt-6-astra",
+  "mesh_parts": 12,
+  "bounds_m": {
+    "x": [
+      -0.19993752241134644,
+      0.19993752241134644
+    ],
+    "y": [
+      -0.21313294768333435,
+      0.19993752241134644
+    ],
+    "z": [
+      1.733330100250896e-05,
+      0.8000014424324036
+    ]
+  },
+  "dimensions_m": {
+    "x": 0.39987504482269287,
+    "y": 0.4130704700946808,
+    "z": 0.799984109131401
+  },
+  "material_slots": 0,
+  "panel_height_ratio": 2.0,
+  "parts": {
+    "01_Govde_bombeli": [
+      "SUBSURF"
+    ],
+    "02_Tabla_dolgun_ust_hafif_pah_alti": [
+      "SUBSURF"
+    ],
+    "03_Alt_kapak": [
+      "SUBSURF"
+    ],
+    "04_Ust_cekmece": [
+      "SUBSURF"
+    ],
+    "05_1_Kulp_kisa_mil": [
+      "BEVEL"
+    ],
+    "06_1_Basik_yuvarlak_topuz": [],
+    "05_2_Kulp_kisa_mil": [
+      "BEVEL"
+    ],
+    "06_2_Basik_yuvarlak_topuz": [],
+    "07_1_Kisa_kalin_ayak": [
+      "SUBSURF"
+    ],
+    "07_2_Kisa_kalin_ayak": [
+      "SUBSURF"
+    ],
+    "07_3_Kisa_kalin_ayak": [
+      "SUBSURF"
+    ],
+    "07_4_Kisa_kalin_ayak": [
+      "SUBSURF"
+    ]
+  }
+}

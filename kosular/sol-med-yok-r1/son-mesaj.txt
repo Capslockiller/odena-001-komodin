@@ -1,0 +1,5 @@
+**Tamamlandı:** [sonuc.blend](./sonuc.blend) ve [RAPOR.md](./RAPOR.md) hazır.
+
+Model 80 cm yüksekliğinde; 12 parça `Molly's Nightstand` koleksiyonunda. Malzeme veya doku atanmadı. Üç açıdan render incelendi, geometri ve ölçü kontrolleri geçti.
+
+[Görsel önizleme](./onizleme_capraz.png). Tarifin belirsiz bıraktığı ölçüler raporda varsayım olarak belirtildi.

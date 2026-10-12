@@ -1,0 +1,5 @@
+Tamamlandı: [sonuc.blend](sonuc.blend), [RAPOR.md](RAPOR.md) ve [önizleme](on_capraz.png).
+
+**Doğrulanan:** 80 cm yükseklik, `Molly's Nightstand` koleksiyonunda 12 parça, malzeme/doku yok. Önizlemeler incelendi; ayaklar kısaltılıp kalınlaştırıldı. Dosya yeniden açılarak doğrulandı.
+
+**Varsayımlar:** Tarifin belirtmediği ölçüler raporda kayıtlı.

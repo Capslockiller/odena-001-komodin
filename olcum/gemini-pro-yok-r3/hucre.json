@@ -1,0 +1,103 @@
+{
+ "etiket": "gemini-pro-yok-r3",
+ "blend": "<tezgah>\\kosular\\test-v2\\gemini-pro-yok-r3\\sonuc.blend",
+ "durum": "TAMAM",
+ "sebepler": [],
+ "istatistik": {
+  "ham_v": 1828,
+  "ham_e": 3272,
+  "ham_f": 1468,
+  "ucgen_yuz": 128,
+  "dortgen": 1308,
+  "ngon": 32,
+  "manifold_disi_kenar": 0,
+  "gevsek_vertex": 0,
+  "son_v": 4516,
+  "son_f": 4156,
+  "son_ucgen": 8984,
+  "nesne": 10,
+  "benzersiz_mesh": 10,
+  "paylasilan_kopya": 0,
+  "olcek_uygulanmamis": 2,
+  "malzeme": 0,
+  "modifier_sayim": {
+   "BEVEL": 7,
+   "LATTICE": 5
+  }
+ },
+ "sekil_mesafesi": {
+  "biz->usta": {
+   "ortalama": 0.0145,
+   "p95": 0.0316,
+   "en_buyuk": 0.0915
+  },
+  "usta->biz": {
+   "ortalama": 0.0153,
+   "p95": 0.0572,
+   "en_buyuk": 0.095
+  }
+ },
+ "oran_biz": {
+  "boyut_ham": [
+   0.42,
+   0.44,
+   0.8
+  ],
+  "oran_GxDxY": [
+   0.525,
+   0.549,
+   1.0
+  ],
+  "ucgen": 8984
+ },
+ "oran_usta": {
+  "boyut_ham": [
+   1.804,
+   1.81,
+   3.725
+  ],
+  "oran_GxDxY": [
+   0.484,
+   0.486,
+   1.0
+  ],
+  "ucgen": 48240
+ },
+ "tel_vertex": 1828,
+ "kontrol_profil": "modelleme",
+ "kontrol_kirmizi": 0,
+ "kontrol": {
+  "ihlal_toplam": 22,
+  "ihlalli_kontrol": 5,
+  "hata_veren_kontrol": 0,
+  "kontrol_sayisi": 34
+ },
+ "gorsel_render_sn": 1.6,
+ "token": {
+  "girdi": 47459,
+  "cikti": 19344,
+  "onbellek_okuma": 203943,
+  "onbellek_yazma": null,
+  "dusunme": 13524,
+  "toplam": 66803,
+  "sure_sn": 169.4014836,
+  "usd": null,
+  "usd_kaynak": "agy fiyat vermiyor"
+ },
+ "token_dosyasi": "cikti.json",
+ "gorsel": {
+  "siglip2": {
+   "paired": 0.917525,
+   "best": 0.918142
+  },
+  "dinov2": {
+   "paired": 0.858369,
+   "best": 0.858369
+  }
+ },
+ "gorsel_kodlama_sn": 0.16,
+ "gpu_tepe_mb": {
+  "siglip2": 4399,
+  "dinov2": 1221
+ }
+}

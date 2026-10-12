@@ -1,0 +1,216 @@
+{
+  "yazan": "codex",
+  "model": "gpt-6.1-sol",
+  "parts": [
+    {
+      "name": "01 Bowed cabinet body",
+      "modifiers": [],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.1839981973171234,
+        -0.1839981973171234,
+        0.10000000149011612
+      ],
+      "bounds_max": [
+        0.1839981973171234,
+        0.1839981973171234,
+        0.75
+      ]
+    },
+    {
+      "name": "02 Thick rounded overhanging top",
+      "modifiers": [],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.20000000298023224,
+        -0.20000000298023224,
+        0.75
+      ],
+      "bounds_max": [
+        0.20000000298023224,
+        0.20000000298023224,
+        0.800000011920929
+      ]
+    },
+    {
+      "name": "03 Shallow drawer front",
+      "modifiers": [],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.15965232253074646,
+        -0.18820030987262726,
+        0.5509999990463257
+      ],
+      "bounds_max": [
+        0.15965232253074646,
+        -0.16697324812412262,
+        0.7360000014305115
+      ]
+    },
+    {
+      "name": "04 Lower door front",
+      "modifiers": [],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.1648930013179779,
+        -0.19299979507923126,
+        0.17399999499320984
+      ],
+      "bounds_max": [
+        0.1648930013179779,
+        -0.15725305676460266,
+        0.5440000295639038
+      ]
+    },
+    {
+      "name": "Drawer knob short stem",
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.007000000216066837,
+        -0.19443143904209137,
+        0.6364999413490295
+      ],
+      "bounds_max": [
+        0.007000000216066837,
+        -0.1824314445257187,
+        0.6504999995231628
+      ]
+    },
+    {
+      "name": "Drawer flattened round knob",
+      "modifiers": [],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.01800001785159111,
+        -0.2084314376115799,
+        0.625499963760376
+      ],
+      "bounds_max": [
+        0.018000004813075066,
+        -0.18843141198158264,
+        0.6614999771118164
+      ]
+    },
+    {
+      "name": "Door knob short stem",
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.007000000216066837,
+        -0.20294104516506195,
+        0.35199999809265137
+      ],
+      "bounds_max": [
+        0.007000000216066837,
+        -0.19094105064868927,
+        0.3659999966621399
+      ]
+    },
+    {
+      "name": "Door flattened round knob",
+      "modifiers": [],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.01800001785159111,
+        -0.21694105863571167,
+        0.3409999907016754
+      ],
+      "bounds_max": [
+        0.018000004813075066,
+        -0.1969410479068756,
+        0.37700000405311584
+      ]
+    },
+    {
+      "name": "Foot FL",
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.1340000033378601,
+        -0.1340000033378601,
+        0.0
+      ],
+      "bounds_max": [
+        -0.07400000095367432,
+        -0.07400000095367432,
+        0.1120000034570694
+      ]
+    },
+    {
+      "name": "Foot FR",
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        0.07400000095367432,
+        -0.1340000033378601,
+        0.0
+      ],
+      "bounds_max": [
+        0.1340000033378601,
+        -0.07400000095367432,
+        0.1120000034570694
+      ]
+    },
+    {
+      "name": "Foot BL",
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        -0.1340000033378601,
+        0.07400000095367432,
+        0.0
+      ],
+      "bounds_max": [
+        -0.07400000095367432,
+        0.1340000033378601,
+        0.1120000034570694
+      ]
+    },
+    {
+      "name": "Foot BR",
+      "modifiers": [
+        "BEVEL",
+        "WEIGHTED_NORMAL"
+      ],
+      "materials": 0,
+      "nonmanifold_edges": 0,
+      "bounds_min": [
+        0.07400000095367432,
+        0.07400000095367432,
+        0.0
+      ],
+      "bounds_max": [
+        0.1340000033378601,
+        0.1340000033378601,
+        0.1120000034570694
+      ]
+    }
+  ]
+}
